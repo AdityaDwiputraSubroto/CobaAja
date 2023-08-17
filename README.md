@@ -1,7 +1,4 @@
 # CobaAja
 yey
 --
-jajaja
-=======
 - yuhu
-
